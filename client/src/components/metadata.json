@@ -1,0 +1,16 @@
+{
+  "preMedOptions": [
+    "Clopamon Inj 20mg"
+  ],
+  "anestheticOptions": [
+    "Synulox Inj 10mg",
+    "Propofol 1%"
+  ],
+  "anesthesiaOptions": [
+    "Hallothane "
+  ],
+  "reversalAgentOptions": [
+    "Reversal 1",
+    "Reversal 2"
+  ]
+}
